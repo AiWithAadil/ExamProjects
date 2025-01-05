@@ -1,0 +1,4 @@
+{
+  "source": ["custom.spotify"],
+  "detail-type": ["Spotify API Trigger"]
+}
