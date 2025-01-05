@@ -5,8 +5,8 @@ import base64
 from urllib.parse import urlencode
 
 # Spotify API credentials
-CLIENT_ID = "39f5db7136ab46c4bf1c6a7526efd254"
-CLIENT_SECRET = "aa4786d6a2c74976aec5b013a1e51bae"
+CLIENT_ID = "****************"
+CLIENT_SECRET = "****************"
 REDIRECT_URI = 'https://open.spotify.com/callback/'  # Make sure to register this in your Spotify Developer Dashboard
 
 # AWS Region for CloudWatch
